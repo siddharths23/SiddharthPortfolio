@@ -1,4 +1,4 @@
-import self from '../img/self.png';
+import self from '../img/mypic.jpg';
 import { colors } from '../colors/mainGradient';
 
 export const info = {
