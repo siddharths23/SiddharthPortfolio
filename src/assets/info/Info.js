@@ -2,7 +2,7 @@ import self from '../img/self.png';
 import { colors } from '../colors/mainGradient';
 
 export const info = {
-  firstName: 'Siddharth',
+  firstName: 'Siddharth Sankar',
   lastName: 'Sankar',
   initials: 'SS',
   position: 'Computer science undergraduate/full-stack developer',
@@ -12,16 +12,16 @@ export const info = {
   miniBio: [
     // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
     {
-      emoji: '🇨🇦🍁🌃',
-      text: 'based in India',
+      emoji: '🌎',
+      text: 'Based in San Francisco',
     },
     {
-      emoji: '🎨👨‍💻📱',
-      text: 'CS at SFSU',
+      emoji: '💻',
+      text: 'B.S. Computer Science at SFSU',
     },
     {
-      emoji: '📧📨📩',
-      text: 'ssankar@sfsu.edu',
+      emoji: '📩',
+      text: 'siddharthsankar23@gmail.com',
     },
   ],
   socials: [
@@ -46,7 +46,7 @@ export const info = {
       label: 'linkedin',
     },
   ],
-  bio: "Hey! I'm Siddharth Sankar, an undergraduate computer science student at San Francisco State University,CA. I'm currently in my final semester, working as a team lead for two projects(a multiplayer unity game and a gpt-AI travel planning application) and plan to graduate by MAY 2023. I have always tried to involve myself in projects and have gained valuable experience in software and web development though my previous internships at exciting startups. I focus on full-stack development using the MERN stack(Mongodb,ExpressJS,ReactJS,NodeJS). Please feel free to go through all my information to determine if I could be a good candidate that can make a meaningfull contribution to your team.",
+  bio: "Hey! I'm Siddharth Sankar, an Computer Science Undergradaute from San Francisco State University,CA. I'm currently in my final semester, working as a team lead for two projects(a multiplayer unity game and a gpt-AI travel planning application) and plan to graduate by MAY 2023. I have always tried to involve myself in projects and have gained valuable experience in software and web development though my previous internships at exciting startups. I focus on full-stack development using the MERN stack(Mongodb,ExpressJS,ReactJS,NodeJS). Please feel free to go through all my information to determine if I could be a good candidate that can make a meaningfull contribution to your team.",
   skills: {
     languages: ['C++', 'Java', 'JavaScript', 'Python'],
     webDev: ['HTML/CSS', 'react.js', 'node.js', 'express.js', 'redux'],
